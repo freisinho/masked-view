@@ -36,6 +36,7 @@
   "devDependencies": {
     "@react-native-community/eslint-config": "^2.0.0",
     "@types/react-native": "^0.63.50",
+    "deprecated-react-native-prop-types": "^4.0.0",
     "eslint": "^7.20.0",
     "flow-bin": "^0.145.0",
     "prettier": "^2.2.1",
